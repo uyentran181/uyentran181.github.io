@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+.banner
+{
+	height: 100vh;
+	background-image: url(../images/bailey-zindel-NRQV-hBF10M-unsplash.jpg);
+	background-size: cover;
+	
+}
+
+.hinhchandung
+{
+	background-image: url(../images/michael-afonso-Z_bTArFy6ks-unsplash.jpg);
+	background-size: cover;
+	background-position:0px -150px;
+}
+
+.row
+{
+	padding: 50px;
+}
+
+.col-6
+{
+	height: 300px;
+}
+
+.text_title p
+{
+padding-top: 15px;
+}
+
+.bieumau
+{	
+	width: 100%;
+	border: 0;
+	border-bottom: solid 1px #BFBFBF;
+	background-color: rgba(0,0,0,0.00);
+}
+
+.message2
+{
+	padding-top: 15px;
+}
+.paddingbutton
+{
+	padding: 15px;
+}
